@@ -18,8 +18,8 @@
 ||meet.google.com^
 
 ||ads-resources.waze.com^
-    ||ads-resources-legacy.waze.com^
-    ||adsassets.waze.com^
+||ads-resources-legacy.waze.com^
+||adsassets.waze.com^
 ||social.waze.com^
-    ||social.waze.co.il^
-    ||support.google.com^
+||social.waze.co.il^
+||support.google.com^
